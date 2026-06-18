@@ -46,19 +46,21 @@ This project analyzes historical Consumer Price Index (CPI) and Producer Price I
 
 ## Power BI Dashboard Pages
 
-### Page 1: Historical CPI Analysis
+The dashboard contains three interactive report pages:
+
+### Historical CPI Analysis
 - Average inflation by category
 - Total categories analyzed
 - Average inflation rate
 - Highest inflation category
 
-### Page 2: CPI vs PPI Analysis
+### CPI vs PPI Analysis
 - CPI vs PPI scatter plot
 - CPI-PPI correlation analysis
 - Average CPI
 - Average PPI
 
-### Page 3: Forecast Analysis
+### Forecast Analysis
 - Forecasted inflation by category
 - Forecast uncertainty analysis
 - Highest forecast category
