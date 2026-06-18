@@ -1,0 +1,23 @@
+Top-level,Aggregate,Mid-level,Low-level,Disaggregate,Attribute,Unit,Value,lower_bound,upper_bound,uncertainty_range
+All food,,,,,Mid point of prediction interval 2026,Percent change,3.4,2.2,4.7,2.5
+All food,Food away from home,,,,Mid point of prediction interval 2026,Percent change,3.5,2.8,4.2,1.4000000000000004
+All food,Food at home,,,,Mid point of prediction interval 2026,Percent change,3.2,1.3,5.2,3.9000000000000004
+All food,Food at home,"Meats, poultry, and fish",,,Mid point of prediction interval 2026,Percent change,6.1,3.0,9.4,6.4
+All food,Food at home,"Meats, poultry, and fish",Meats,,Mid point of prediction interval 2026,Percent change,7.4,3.4,11.6,8.2
+All food,Food at home,"Meats, poultry, and fish",Meats,Beef and veal,Mid point of prediction interval 2026,Percent change,12.1,6.6,18.1,11.500000000000002
+All food,Food at home,"Meats, poultry, and fish",Meats,Pork,Mid point of prediction interval 2026,Percent change,1.5,-2.2,5.2,7.4
+All food,Food at home,"Meats, poultry, and fish",Meats,Other meats,Mid point of prediction interval 2026,Percent change,3.1,0.7,5.5,4.8
+All food,Food at home,"Meats, poultry, and fish",Poultry,,Mid point of prediction interval 2026,Percent change,0.5,-2.3,3.4,5.699999999999999
+All food,Food at home,"Meats, poultry, and fish",Fish and seafood,,Mid point of prediction interval 2026,Percent change,4.9,2.6,7.2,4.6
+All food,Food at home,Eggs,,,Mid point of prediction interval 2026,Percent change,-29.8,-38.8,-18.3,20.499999999999996
+All food,Food at home,Dairy products,,,Mid point of prediction interval 2026,Percent change,-0.1,-2.3,2.1,4.4
+All food,Food at home,Fats and oils,,,Mid point of prediction interval 2026,Percent change,-1.6,-4.6,1.6,6.199999999999999
+All food,Food at home,Fruits and vegetables,,,Mid point of prediction interval 2026,Percent change,4.6,2.4,7.0,4.6
+All food,Food at home,Fruits and vegetables,Fresh fruits and vegetables,,Mid point of prediction interval 2026,Percent change,5.0,2.3,7.8,5.5
+All food,Food at home,Fruits and vegetables,Fresh fruits and vegetables,Fresh fruits,Mid point of prediction interval 2026,Percent change,1.8,-0.9,4.7,5.6000000000000005
+All food,Food at home,Fruits and vegetables,Fresh fruits and vegetables,Fresh vegetables,Mid point of prediction interval 2026,Percent change,7.8,3.9,11.9,8.0
+All food,Food at home,Fruits and vegetables,Processed fruits and vegetables,,Mid point of prediction interval 2026,Percent change,3.6,1.5,5.8,4.3
+All food,Food at home,Sugar and sweets,,,Mid point of prediction interval 2026,Percent change,6.3,4.1,8.4,4.300000000000001
+All food,Food at home,Cereals and bakery products,,,Mid point of prediction interval 2026,Percent change,1.9,0.0,3.9,3.9
+All food,Food at home,Nonalcoholic beverages,,,Mid point of prediction interval 2026,Percent change,5.8,3.6,7.9,4.300000000000001
+All food,Food at home,Other foods,,,Mid point of prediction interval 2026,Percent change,2.6,0.5,4.8,4.3
