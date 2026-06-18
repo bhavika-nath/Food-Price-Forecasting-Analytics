@@ -75,7 +75,16 @@ dashboard/
 ├── cpi_ppi.csv
 └── forecast_uncertainty.csv
 ```
+## Dashboard Screenshots
 
+### Historical CPI Analysis
+![Historical CPI](historical_cpi_dashboard.png)
+
+### CPI vs PPI Analysis
+![CPI vs PPI](cpi_ppi_dashboard.png)
+
+### Forecast Analysis
+![Forecast Analysis](forecast_dashboard.png)
 ## Author
 
 Bhavika Gungurthi
